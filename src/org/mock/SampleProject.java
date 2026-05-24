@@ -6,5 +6,9 @@ public class SampleProject {
 		System.out.println("Git started");
 
 	}
+	private void sampleDemo() {
+		System.out.println("Hi, This is Narthana");
+
+	}
 	
 }
